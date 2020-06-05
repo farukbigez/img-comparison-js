@@ -2,7 +2,7 @@ const imghash = require('imghash');
 const hamming = require('hamming-distance');
 const mongoose = require('mongoose')
 
-//mongoose.connect('mongodb+srv://admin:DA213M-123MJNSDF-432FDSF-23EDFSF@fck-gcx26.mongodb.net/test?retryWrites=true', { useNewUrlParser: true })
+//mongoose.connect('mongodb+srv://.mongodb.net/test?retryWrites=true', { useNewUrlParser: true })
 
 const Image = require('./image.schema')
 
